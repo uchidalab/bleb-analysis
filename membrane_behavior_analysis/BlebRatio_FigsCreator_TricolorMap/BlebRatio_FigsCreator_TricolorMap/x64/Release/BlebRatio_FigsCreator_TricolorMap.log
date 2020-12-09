@@ -1,0 +1,39 @@
+﻿2018/11/16 23:00:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\BlebRatio_FigsCreator_TricolorMap\BlebRatio_FigsCreator_TricolorMap.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/include/ /IC:\opencv2.4.10\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D HAS_OPENCV /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(94): warning C4101: 'ri' : ローカル変数は 1 度も使われていません。
+     1>Source.cpp(210): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>Source.cpp(212): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>Source.cpp(214): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>Source.cpp(217): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(218): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(219): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(221): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(222): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(223): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(226): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(227): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(228): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(230): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(231): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(232): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(279): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(280): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(281): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(282): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(284): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(285): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(286): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+     1>Source.cpp(287): warning C4267: '引数' : 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\x64\Release\BlebRatio_FigsCreator_TricolorMap.exe" /NOLOGO C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_videostab2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_video2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_ts2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_superres2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_stitching2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_photo2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_ocl2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_objdetect2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_nonfree2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_ml2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_legacy2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_imgproc2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_highgui2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_gpu2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_flann2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_features2d2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_core2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_contrib2410.lib C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\packages\OpenCV.2.4.10\build\native\../../build/native/lib/x64/v120/Release/opencv_calib3d2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\x64\Release\BlebRatio_FigsCreator_TricolorMap.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\x64\Release\BlebRatio_FigsCreator_TricolorMap.lib" /MACHINE:X64 x64\Release\Source.obj
+         コード生成しています。
+         コード生成が終了しました。
+         BlebRatio_FigsCreator_TricolorMap.vcxproj -> C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\x64\Release\BlebRatio_FigsCreator_TricolorMap.exe
+     1>プロジェクト "C:\Users\shota\workspace\Bleb\BlebRatio_FigsCreator_TricolorMap\BlebRatio_FigsCreator_TricolorMap\BlebRatio_FigsCreator_TricolorMap.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.55
